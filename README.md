@@ -3,7 +3,7 @@
 About ME
 
 - 🔭 I’m currently working at P2P lending Indonesia
-- 🌱 I’m currently learning Mobile Native (Kotlin)
+- 🌱 I’m currently learning Mobile Development Native (Kotlin + Swift)
 - 📫 How to reach me:
 
 ## Connect with me
