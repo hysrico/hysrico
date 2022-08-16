@@ -16,10 +16,11 @@ About ME
 <br>
 <br>
 
-## Expertise
+## Tech stack familiarity
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/golang%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
 <br>
 <br>
