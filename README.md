@@ -2,7 +2,7 @@
 
 About ME
 
-- 🔭 I’m currently working at P2P lending Indonesia
+- 🔭 I’m currently working at Fintech StartUp
 - 🌱 I’m currently learning Mobile Development Native (Kotlin + Swift)
 - 📫 How to reach me:
 
