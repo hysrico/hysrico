@@ -1,9 +1,9 @@
-### Hi there 👋 I'm a Information System student on Bina Nusantara University in Jakarta Indonesia, Currently, i'm learning more about API (GO) and Mobile Development #NativeTeam.
+### Hi there 👋 
 
 About ME
 
-- 🔭 I’m currently working at Fintech StartUp
-- 🌱 I’m currently learning Mobile Development Native (Kotlin + Swift)
+- 🔭 I’m currently working at Energy Sector
+- 🌱 I’m currently learning Bitcoin
 - 📫 How to reach me:
 
 ## Connect with me
